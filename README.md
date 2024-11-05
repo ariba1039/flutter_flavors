@@ -1,13 +1,7 @@
 
 # Generating flavors has never been this easy Flutter Flavors 2024
+In this Repo, I will show you how to generate Flutter Flavors with customized flavor names for Android, iOS and web. I will explain to you what flavors are and why engineering teams use flavors. We will also see the easiest approach to generate flavors in your flutter project and flutter app icons. 
 
-A new Flutter project.
-
-## Getting Started
-
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Happy+Coding+in+Flutter++%F0%9F%9A%80%F0%9F%93%B1" alt="Typing SVG" /></a>
-</h1>
 
 ## Installation
 To run this app locally, follow these steps:
@@ -38,8 +32,7 @@ flutter_launcher_icons
 ```bash
 dart run flutter_flavorizr
 
-
-
+```
 
 
 # 💬 Contact
@@ -77,3 +70,6 @@ If you have any questions or feedback, feel free to reach out:
 
 </div>
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Happy+Coding+in+Flutter++%F0%9F%9A%80%F0%9F%93%B1" alt="Typing SVG" /></a>
+</h1>
