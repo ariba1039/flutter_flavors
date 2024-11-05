@@ -6,7 +6,7 @@ A new Flutter project.
 ## Getting Started
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&random=true&width=435&lines=Happy+Coding+%F0%9F%9A%80%F0%9F%93%B1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=Happy+Coding+in+Flutter++%F0%9F%9A%80%F0%9F%93%B1" alt="Typing SVG" /></a>
 </h1>
 
 
