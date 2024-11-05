@@ -27,6 +27,31 @@ flutter run
 flutter_flavorizr
 flutter_launcher_icons
 ```
+```bash
+flavorizr:
+  ide: "vscode"
+  flavors:
+    coffee:
+      app:
+        name: "Coffee App"
+
+      android:
+        applicationId: "com.example.coffee"
+      ios:
+        bundleId: "com.example.coffee"
+      macos:
+        bundleId: "com.example.coffee"
+    pizza:
+      app:
+        name: "Pizza App"
+
+      android:
+        applicationId: "com.example.pizza"
+      ios:
+        bundleId: "com.example.pizza"
+      macos:
+        bundleId: "com.example.pizza"
+```
 
 4.  Run the following command to generate the flavors:
 ```bash
